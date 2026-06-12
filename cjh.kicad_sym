@@ -411,7 +411,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TJCTM24024-SPI"
+		(property "Footprint" "cjh:TJCTM24024-SPI"
 			(at 1.27 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
